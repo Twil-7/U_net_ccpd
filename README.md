@@ -14,6 +14,8 @@ opencv == 3.4.2
 
 直接运行main.py，其调用了数据集划分、模型创建、训练、检测等py文件。
 
+crop_ccpd数据集下载：https://blog.csdn.net/Twilight737?spm=1018.2226.3001.5343&type=download
+
 car.mp4：自己随手拍摄的车牌视频流。
 
 detect_video.mp4：语义分割检测出的视频效果。
